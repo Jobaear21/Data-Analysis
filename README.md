@@ -1,2 +1,1 @@
-# Data-Analysis
-Data analysis and Business analysis diagrams and report
+Data analysis and Business analysis diagrams and reports are displayed here which I complete. Most of the data analysis project has been done using Python in Jupyter Notebook. Some are done by using the SAS Visual Analytics tool.
